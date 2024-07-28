@@ -1,0 +1,26 @@
+{
+    "sop": {
+      "objective": "The purpose of this SOP is to guide frontline workers on how to efficiently assist users in accessing and benefiting from government schemes.",
+      "approach": {
+        "title": "Approach",
+        "steps": [
+          "Initial Greeting: Greet the user warmly and introduce yourself. Ensure you create a friendly and approachable environment.",
+          "Understanding the User's Needs: Ask the user about their needs and determine if they qualify for any government schemes.",
+          "Informing About Relevant Schemes: Based on the user's needs, provide detailed information about relevant government schemes. Explain eligibility criteria, benefits, and the application process.",
+          "Assisting with Documentation: Help the user gather and prepare the necessary documentation required for the application. Verify that all documents are complete and accurate.",
+          "Guiding Through the Application Process: Assist the user in filling out application forms and submitting them. Ensure that they understand each step and provide support as needed.",
+          "Follow-Up: Schedule a follow-up to check the status of the application and address any further questions or issues the user may have."
+        ]
+      },
+      "bestPractices": {
+        "title": "Best Practices",
+        "items": [
+          "Maintain professionalism and patience throughout the process.",
+          "Keep up-to-date with the latest government schemes and their requirements.",
+          "Provide clear and accurate information to avoid confusion.",
+          "Respect user privacy and handle all personal information confidentially."
+        ]
+      },
+      "contact": "For further assistance or questions, please contact the support team at support@example.com or call +1-800-123-4567."
+    }
+  }
