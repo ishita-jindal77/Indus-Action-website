@@ -53,3 +53,4 @@ This project focuses on automating the process of identifying, matching, and rec
 -   **Notification**:
     
     -   **Twilio**: Service for sending SMS notifications to users and field workers.
+![Screenshot 2024-07-28 103132](https://github.com/user-attachments/assets/4218ce59-5701-467f-b7df-3ffc15f01287)
